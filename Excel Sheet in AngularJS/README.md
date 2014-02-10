@@ -1,2 +1,2 @@
 # Excel sheet in AngularJS
-This piece is a small demonstration to the event bindings of a multi dimentional array.
+This piece is a small demonstration of binding multi dimentional array to a html table.
